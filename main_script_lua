@@ -1,0 +1,3 @@
+local hint = Instance.New("Hint")
+hint.Text = "hello"
+hint.Parent = Workspace
